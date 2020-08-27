@@ -1,5 +1,5 @@
 # Icelandic Taboo Database 1.0
-An annotated collection of Icelandic words that are (sometimes) associated with a taboo or some sort inappropriateness depending on context.
+An annotated collection of Icelandic words that are (sometimes) associated with a taboo or some sort of inappropriateness depending on context.
 
 ## List of taboo/inappropriate words 
 A list of words in Icelandic that may in some way be considered inappropriate, taboo and/or  loaded in use or meaning. These can be words such as; words that are biased against certain minorities (i.e. people of different races, abilities, genders or sexualities), words that are derogatory towards people, unnecessarily gendered, obsolete and so on. The list also includes words that are not cery inappropriate but can be considered an unfortunate topic for children or politically loaded in any way. 
@@ -50,7 +50,7 @@ Ekki óviðeigandi|	e	|Orð sem ekki ættu að teljast óviðeigandi, en hafa fl
 								
 |orð| orðflokkur|kóði|kóði2|merking|Óviðeigandi ástæða|	Annað tilfallandi| önnur merking (ekki óviðeigandi)|
 |----|-----------|----|-----|-------|------------------|-------------------|---------------------------------|
-|orð|	no/lo/so/ao|	aðalflokkur|	fellur líka undir annan flokk|	merking orðsins	|hvernig orðið gæti talist óviðeigandi, t.d. í hvaða samhengi.|	aukaupplýsingar t.d. enskusletta, kyn orðsins o.fl.	|x (ef orðið hefur aðra merkingu sem er ekki óviðeigandi|		
+|orð|	no/lo/so/ao|	kóði flokksins sem orðið tilheyrir|	annar kóði ef orðið fellur líka undir annan flokk|	merking orðsins	|hvernig orðið gæti talist óviðeigandi, t.d. í hvaða samhengi.|	aukaupplýsingar t.d. enskusletta, kyn orðsins o.fl.	|x (ef orðið hefur aðra merkingu sem er ekki óviðeigandi|		
 dæmi:									
 |api|	no |	h	|	|heimskur maður	|Niðrandi orð yfir manneskju sem dregur fram fáfræði einstaklingsins|		|x (dýrategund)		|
 
