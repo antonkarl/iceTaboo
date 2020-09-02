@@ -467,9 +467,6 @@ vösólfur	no	k/kk		uppivöðslusamur mðaur	niðrandi/ljótt orð yfir karla	Gr
 þorpari	no	k/kk		þrjótur, ódámur, fantur	niðrandi/ljótt orð yfir karla	Grófur ruddalegur karlmaður, með óheflaða framkomu, sýnir óþokkaskap				
 þrjótur	no	k/kk		þorpari, slæmur maður	niðrandi/ljótt orð yfir karla	Grófur ruddalegur karlmaður, með óheflaða framkomu, sýnir óþokkaskap				
 þrustur	no	k/kk		þurrpumpulegur maður	niðrandi/ljótt orð yfir karla	Skapgerð: Geðstirður, uppstökkur maður				
-Kynjuð orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-k/kvk = aðeins notað um konur										
-k/kvk-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 ambinbirna	no	k/kvk		ómyndunarkvendi	niðrandi/ljótt orð yfir konur	Löt kona, seinvirk				
 ambirna	no	k/kvk		klaufsk, óhagvirk kona	niðrandi/ljótt orð yfir konur	Klaufsk kona				
 arghola	no	k/kvk		lauslát kona	niðrandi/ljótt orð yfir konur	Lauslát kona				
@@ -802,8 +799,6 @@ vinnukerling	no	k/kvk			niðrandi/ljótt orð yfir konur
 yrsa	no	k/kvk		óhemja, fála	niðrandi/ljótt orð yfir konur	Óhemja, ólátasöm stelpa				
 ysja	no	k/kvk		fasmikil kona	niðrandi/ljótt orð yfir konur	Fasmikil, hávær kona oft fljótfær				
 þurrtrunta	no	k/kvk			niðrandi/ljótt orð yfir konur	 				
-Almennt óviðeigandi	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-a-merkt	orðflokkur	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 aumingjahrollur	no	a		 	Orð sem almennt telst óviðeigandi í málinu, og fellur ekki undir aðra flokka					
 brjál	no	a		 	Orð sem almennt telst óviðeigandi í málinu, og fellur ekki undir aðra flokka					
 djöflaæði	no	a			Orð sem almennt telst óviðeigandi í málinu, og fellur ekki undir aðra flokka					
@@ -865,8 +860,6 @@ væl	no	a		 	Orð sem almennt telst óviðeigandi í málinu, og fellur ekki und
 "
 viðbjóður	no	a		 	Orð sem almennt telst óviðeigandi í málinu, og fellur ekki undir aðra flokka					"
 "
-Blótsyrði	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-b-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 andskotakorn	no	b			blótsyrði					"
 "
 andskoti	no	b			blótsyrði					"
@@ -971,8 +964,6 @@ farðu til fjandans	orðasamband	b	o		blótsyrði
 farðu til fjandans!	orðasamband	b	o		blótsyrði					"
 "
 þroskahefta geit	orðasamband	b	o		blótsyrði					
-Drykkju/dóp- orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-d-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 áfengisfíkn	no	d	z							
 alkahólisti	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
 "
@@ -1082,9 +1073,6 @@ uppdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn eins
 vímaður	lo	d	l							
 vímuefni	no	d	z			hk				"
 "
-Misóviðeigandi orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-Ekki óviðeigandi										
-e-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða- misóviðeigandi listinn	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 agabrot	no	e			Telst ekki óviðeigandi, hefur aðeins flókna merkingu og því verið síað frá þegar börn taka þátt í ýmsu máltæknitengdu.					"
 "
 ákæra	no	e			Telst ekki óviðeigandi, hefur aðeins flókna merkingu og því verið síað frá þegar börn taka þátt í ýmsu máltæknitengdu.					"
@@ -1423,8 +1411,6 @@ yfirlýsing	no	e			Telst ekki óviðeigandi, hefur aðeins flókna merkingu og �
 "
 þvættisbrot	no	e			Telst ekki óviðeigandi, hefur aðeins flókna merkingu og því verið síað frá þegar börn taka þátt í ýmsu máltæknitengdu.					"
 "
-Fagheiti	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11
-m-merkt	orðfl	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)				
 barnaheimili	no	m		leikskóli	Telst úrelt heiti yfir fagstétt, þykir lítillækka starfið og útilokandi.						
 barnapía	no	m	k	Barnfóstra/ manneskja sem vinnur við umönnun barna	Telst úrelt heiti yfir fagstétt, þykir lítillækka starfið og útilokandi.						"
 "
@@ -1456,8 +1442,6 @@ vinnukona	no	m	k		Telst úrelt heiti yfir fagstétt, þykir lítillækka starfi�
 "
 þrifakona	no	m	k	ræstitæknir/manneskja sem vinnur við ræstingar	Telst úrelt heiti yfir fagstétt, þykir lítillækka starfið og útilokandi.						"
 "
-Fötlunarorð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7
-f-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)
 downsari	no	f		einstaklingur með downs-heilkenni	Telst niðrandi yfir fólk með fötlun/úrelt		
 fatlaður	lo	f		seinfær - manneskja með fötlun (ATH er ekki 100% á því að orðið fatlaður þyki alltaf neikvætt)	Telst niðrandi yfir fólk með fötlun/úrelt		
 fáviti	no	f		um fatlaðan einstakling	Telst niðrandi yfir fólk með fötlun/úrelt		
@@ -1477,8 +1461,6 @@ vansköpun	no	f			Telst niðrandi yfir fólk með fötlun/úrelt
 vanþroska	lo	f		heimskur	Telst niðrandi yfir fólk með fötlun/úrelt		
 þrolli	no	f		stytting á þroskaheftur	Telst niðrandi yfir fólk með fötlun/úrelt		
 þroskaheftur	lo	f		þroskaskertur/greindarskertur - manneskja með þroskaskerðingu	Telst niðrandi yfir fólk með fötlun/úrelt		
-Heilbrigðistengd orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-g-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 fávit	no	g		úrelt læknisfræðilegt heiti	Ekki talið viðeigandi í heilbrigðismálum - hlaðið fordómum/úrelt					"
 "
 fóstureyðing	no	g		þungunarrof /meðgöngurof	Ekki talið viðeigandi í heilbrigðismálum - hlaðið fordómum/úrelt					"
@@ -1548,8 +1530,6 @@ vitfirringur	no	g		niðrandi um einstakling með geðræn vandamál	Ekki talið 
 										
 										
  										
-Heimskuorð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11
-h-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)				
 afdalavitleysingur	no	h		heimskur maður	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.						"
 "
 afglapi	no	h	k - kk	glópur, reginfífl	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.	Skapgerð: Flón, kjáni					
@@ -1730,8 +1710,6 @@ vitsmunaskortur	no	h		heimskur maður	Gefur í skyn fáfræði einstaklings, yfi
 "
 þorskur	no	h	k - kk	auli, heimskingi, skilningssljór maður	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.	Skapgerð: Flón, kjáni	x				
 þurs	no	h		heimskur maður	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.		x				
-Kynfæraorð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11
-v-merkt	orðfl	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)				
 afturbatapíka	no	v		lastyrði um konu	nafn á kynfærum, stundum notað sem meiðyrði yfir fólk						
 besefi	no	v		limur	nafn á kynfærum, stundum notað sem meiðyrði yfir fólk						"
 "
@@ -1805,9 +1783,6 @@ yngispíka	no	v		lastyrði um konu	nafn á kynfærum, stundum notað sem meiðyr
 þeytipíka	no	v		lastyrði um konu	nafn á kynfærum, stundum notað sem meiðyrði yfir fólk						
 þjónustupíka	no	v		óviðeigandi orð yfir þjónustustúlku/þjón	nafn á kynfærum, stundum notað sem meiðyrði yfir fólk						
 þurrkunta	no	v		lastyrði um konu	nafn á kynfærum, stundum notað sem meiðyrði yfir fólk						
-Kynjuð orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-k = kynjað orð, notað um fólk eða fyrirbæri										
-k-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 karlhatari	no	k								
 karlremba	no	k			kynjað orð - meiðyrði	 				"
 "
@@ -1818,8 +1793,6 @@ púðurkerling	no	k		flugeldur (kínverji)/ sveppur	inniheldur óviðeigandi kyn
 pútubarn	no	k			kynjað orð - meiðyrði					
 vinnukona	no	k		rúðuþurrka (ATH tvær merkingar orðsins vinnukona)	inniheldur óviðeigandi kynjaðan orðhluta - sem kemur merkingu orðsins ekki við	 	x (kona sem vinnur húsverk á bæ)			"
 "
-Kynlífstengd orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-y-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 blóðskömm	no	y	z		Orð sem tengist kynlífsgjörðum og telst almennt óviðeigandi					"
 "
 brund	no	y	z							
@@ -1884,8 +1857,6 @@ standpína	no	y
 sveindómur	no	y								
 trúboðastelling	no	y			Orð sem tengist kynlífsgjörðum og telst almennt óviðeigandi					"
 "
-LGBTQIA+ orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11
-ö-merkt	orðfl	kóði	kóði2	merking	óviðeigandi ástæða						
 afhommun	no	ö			niðrandi orð yfir hinseginfólk, einnig stundum notað sem almennt meiðyrði						
 aftaníossi	no	ö		niðrandi orð um samkynhneigða menn	niðrandi orð yfir hinseginfólk, einnig stundum notað sem almennt meiðyrði						
 bæjari	no	ö		tvíkynhneigð/ur	niðrandi orð yfir hinseginfólk, einnig stundum notað sem almennt meiðyrði						"
@@ -1944,8 +1915,6 @@ trukkalessa	no	ö		lesbía	niðrandi orð yfir hinseginfólk, einnig stundum not
 tvítóla	lo	ö			niðrandi orð yfir hinseginfólk, einnig stundum notað sem almennt meiðyrði						
 tvítóli	no	ö			niðrandi orð yfir hinseginfólk, einnig stundum notað sem almennt meiðyrði						
 viðrini	no	ö		intersex	niðrandi orð yfir hinseginfólk, einnig stundum notað sem almennt meiðyrði						
-Lýsingarorð (ljót um fólk)	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-l-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 áfengisdauður	lo	l	d	meðvitundarlaus vegna áfengisneyslu	Lýsingarorð yfir fólk, sem hefur neikvæða merkingu og gæti talist óviðeigandi. Lýsir neikvæðum atriðum í fari fólks (ekki útliti)					"
 "
 afturhaldssinnaður	lo	l		 	Lýsingarorð yfir fólk, sem hefur neikvæða merkingu og gæti talist óviðeigandi. Lýsir neikvæðum atriðum í fari fólks (ekki útliti)					"
@@ -2170,8 +2139,6 @@ yfirlætisfullur	lo	l		 	Lýsingarorð yfir fólk, sem hefur neikvæða merkingu
 þröngsýnn	lo	l		 	Lýsingarorð yfir fólk, sem hefur neikvæða merkingu og gæti talist óviðeigandi. Lýsir neikvæðum atriðum í fari fólks (ekki útliti)					"
 "
 þurrkuntulegur	lo	l	v		Lýsingarorð yfir fólk, sem hefur neikvæða merkingu og gæti talist óviðeigandi. Lýsir neikvæðum atriðum í fari fólks (ekki útliti)					
-Nafnorð (ljót um fólk)	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-n-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 æsingaseggur	no	n			Nafnorð yfir fólk, neikvæð merking, niðrandi (ekki kynjað, heimsku-/drykkjuorð)					
 aflagi	no	n			Nafnorð yfir fólk, neikvæð merking, niðrandi (ekki kynjað, heimsku-/drykkjuorð)					
 áflogaseggur	no	n			Nafnorð yfir fólk, neikvæð merking, niðrandi (ekki kynjað, heimsku-/drykkjuorð)					
@@ -2560,9 +2527,6 @@ yfirgangsseggur	no	n			Nafnorð yfir fólk, neikvæð merking, niðrandi (ekki k
 þrjóskupúki	no	n			Nafnorð yfir fólk, neikvæð merking, niðrandi (ekki kynjað, heimsku-/drykkjuorð)					"
 "
 þverúðarseggur	no	n			Nafnorð yfir fólk, neikvæð merking, niðrandi (ekki kynjað, heimsku-/drykkjuorð)					
-Misóviðeigandi orðalistinn	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-Pólitísk orð										
-i-merkt	orðflokkur	kóði	kóði2	merking	Óviðeigandi ástæða - misóviðeigandi listinn	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 aðildarsinni	no	i			Pólitískt orð, getur verið gildishlaðið og fólk með ólíkar skoðanir haft mismunandi tilfinningar til þess 					"
 "
 afneitunarsinni	no	i			Pólitískt orð, getur verið gildishlaðið og fólk með ólíkar skoðanir haft mismunandi tilfinningar til þess 					"
@@ -2664,8 +2628,6 @@ zíonisti	no	i			Pólitískt orð, getur verið gildishlaðið og fólk með ól
 "
 þjóðernissinni	no	i			Pólitískt orð, getur verið gildishlaðið og fólk með ólíkar skoðanir haft mismunandi tilfinningar til þess 					"
 "
-Sagnir	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-s-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 afmeyja	so	s	y		Sögn sem felur í sér óviðeigandi verknað, eða er notuð á óviðeigandi hátt yfir annan verknað					
 andskota	so	s			Sögn sem felur í sér óviðeigandi verknað, eða er notuð á óviðeigandi hátt yfir annan verknað					"
 "
@@ -2752,8 +2714,6 @@ uppnefna	so	s		 	Sögn sem felur í sér óviðeigandi verknað, eða er notuð 
 "
 væla	so	s		 	Sögn sem felur í sér óviðeigandi verknað, eða er notuð á óviðeigandi hátt yfir annan verknað					"
 "
-Trúarorð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-t-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 andgyðinglegur	lo	t			Orð sem felur í sér einhvers konar trúarbrögð, getur verið gildishlaðið, hlaðið fordómum, jafnvel talist úrelt.					"
 "
 andkristur	no	t			Orð sem felur í sér einhvers konar trúarbrögð, getur verið gildishlaðið, hlaðið fordómum, jafnvel talist úrelt.					"
@@ -2817,8 +2777,6 @@ trúvillingur	no	t	n		Óviðeigandi orð yfir einstakling af ákveðinni trú (s
 "
 villutrúarmaður	no	t			Óviðeigandi orð yfir einstakling af ákveðinni trú (sem hefur orðið fyrir ásóknum)					"
 "
-Áhersluforskeyti	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-w-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 asna-	forliður	w			Áhersluforskeyti sem skeytt er framan á almenn orð, sem gera þau óviðeigandi					"
 "
 asnablíða	no	w			Orð sem inniheldur óviðeigandi áhersluforskeyti					
@@ -2887,9 +2845,6 @@ tussu-	forliður	w			Áhersluforskeyti sem skeytt er framan á almenn orð, sem 
 "
 þrælgáfaður	lo	w			Orð sem inniheldur óviðeigandi áhersluforskeyti					
 þrælheppinn	lo	w			Orð sem inniheldur óviðeigandi áhersluforskeyti					
-Misóviðeigandi orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-Óviðeigandi Börnum										
-z-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða - misóviðeigandi listinn	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 ærumeiðing	no	z			Orð sem telst almennt ekki óviðeigandi en gæti talist óviðeigandi umræðuefni fyrir börn.					"
 "
 ærumeiðingarbrot	no	z			Orð sem telst almennt ekki óviðeigandi en gæti talist óviðeigandi umræðuefni fyrir börn.					"
@@ -3473,8 +3428,6 @@ voðaverk	no	z			Orð sem telst almennt ekki óviðeigandi en gæti talist óvi�
 "
 þolandi	no	z			Orð sem telst almennt ekki óviðeigandi en gæti talist óviðeigandi umræðuefni fyrir börn.					"
 "
-Útlitsorð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9
-u-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)		
 ælingi	no	u	k/kk	ógerðarlegur maður; horgemlingur, vesældarleg skepna	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Útlit: vesældarlegur karlmaður, væskill			
 afarljótur	lo	u			Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.				
 afdæmingur	no	u	k/kvk	feit kona	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Gildvaxin kona			
@@ -3766,8 +3719,6 @@ votút	no	u	k/kk	vesaldarlegur maður, þroskalítill; seinþroska og korguleg s
 þjósa	no	u	k/kvk	feit kona	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Gildvaxin kona			
 Þvengmjór	lo	u			Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.				"
 "
-Þjóðernisorð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
-þ-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 afríkunegri	no	þ		blökkumaður frá afríku	Niðrandi orð yfir fólk af ákveðnu þjóðerni/kynþætti sem er í minnihlutahópi					
 barbari	no	þ		haft um frumbyggjaþjóðir „ósiðmenntað“ yfirleitt afríska/suður ameríska ættbálka	Niðrandi orð yfir fólk af ákveðnu þjóðerni/kynþætti sem er í minnihlutahópi					"
 "
@@ -3863,9 +3814,6 @@ Wuhan-veira	no	a		kórónaveiran, covid-19	Rangnefni á alvarlegum hlut sem bend
 "
 þjóðníðingur	no	þ	z	sá sem svíkur þjóð sína eða berst gegn hagsmunum hennar						"
 "
-önnur merking	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10	Unnamed: 11	Unnamed: 12
-												
-X-merkt	orðfl.	kóði	kóði2	merking	önnur merking (ekki óviðeigandi)	Óviðeigandi ástæða	Annað tilfallandi					
 álfur	no	h		heimskur maður	x	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.						
 apabýli	no	h	k - kk	flónslegur maður	x	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.	Skapgerð: Flón, kjáni					
 apaköttur	no	h		heimskur maður	x	Gefur í skyn fáfræði einstaklings, yfirleitt sem meiðyrði eða á niðrandi hátt.						
