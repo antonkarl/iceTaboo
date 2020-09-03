@@ -1,111 +1,65 @@
 Drykkju/dóp- orð	Unnamed: 1	Unnamed: 2	Unnamed: 3	Unnamed: 4	Unnamed: 5	Unnamed: 6	Unnamed: 7	Unnamed: 8	Unnamed: 9	Unnamed: 10
 d-merkt	orðfl.	kóði	kóði2	merking	Óviðeigandi ástæða	Annað tilfallandi	önnur merking (ekki óviðeigandi)			
 áfengisfíkn	no	d	z							
-alkahólisti	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-alki	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+alkahólisti	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+alki	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 alkóhólisti	no	d								
-alldrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-allölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-amfetamín	no	d	z		nafn á eiturlyfi	hk				"
-"
-blindfullur	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-brennivínsdauður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-dauðadrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+alldrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+allölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+amfetamín	no	d	z		nafn á eiturlyfi	hk				
+blindfullur	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+brennivínsdauður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+dauðadrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 dóp	no	d	z		nafn yfir eiturlyf					
-dópa	so	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-dópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-dópisti	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-drukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+dópa	so	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+dópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+dópisti	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+drukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 drykkfelldur	lo	d								
 drykkjudólgur	no	d	z		Niðrandi orð sem gefa í skyn drykkfeldni eða fíkn einstaklings 					
-drykkjuræfill	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+drykkjuræfill	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 drykkjusvall	no	d								
 extasý	no	d	z		nafn á eiturlyfi					
-fíkn	no	d	z			kvk				"
-"
+fíkn	no	d	z			kvk				
 fíkniefni	no	d	z							
 fyllerí	no	d								
-fyllibytta	no	d		> alkóhólisti/drykkjumaður/drykkjukona	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-fyllibytta	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-fylliraftur	no	d		> drykkjumaður	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+fyllibytta	no	d		> alkóhólisti/drykkjumaður/drykkjukona	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+fyllibytta	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+fylliraftur	no	d		> drykkjumaður	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 fyllirí	no	d								
 hass	no	d	z		nafn á eiturlyfi					
-haugadrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-haugafullur	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+haugadrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+haugafullur	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 jóna	no	d	z		nafn á eiturlyfi					
-kannabis	no	d	z			hk				"
-"
-kannabisefni	no	d	z			hk				"
-"
-kófdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-kókaín	no	d	z		nafn á eiturlyfi	hk				"
-"
+kannabis	no	d	z			hk				
+kannabisefni	no	d	z			hk				
+kófdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+kókaín	no	d	z		nafn á eiturlyfi	hk				
 krakk	no	d	z		nafn á eiturlyfi					
-krakkfíkill	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+krakkfíkill	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 krakksmygl	no	d	z							
-langdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-mökkdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+langdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+mökkdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 mollý	no	d	z		nafn á eiturlyfi					
-ofurölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-ofurölvi	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-ölóður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-ölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-óreglufólk	no	d		> fólk sem neytir áfengis eða fíkniefna í óhófi.	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-pöddufullur	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-róni	no	d		> drykkjumaður/drykkjukona/útigangsmaður/útigangskona (ATH, er ekki viss hvort útigangsfólk þyki neikvætt)	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-róni	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-sauðdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-sauðölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-sídrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-slompaður	lo	d		alldrukkinn	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+ofurölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+ofurölvi	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+ölóður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+ölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+óreglufólk	no	d		> fólk sem neytir áfengis eða fíkniefna í óhófi.	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+pöddufullur	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+róni	no	d		> drykkjumaður/drykkjukona/útigangsmaður/útigangskona (ATH, er ekki viss hvort útigangsfólk þyki neikvætt)	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+róni	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+sauðdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+sauðölvaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+sídrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+slompaður	lo	d		alldrukkinn	Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 spítt	no	d	z		nafn á eiturlyfi					
-spíttaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-svefndrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-tedrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-timbraður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-uppdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-útúrdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
-útúrdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					"
-"
+spíttaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+svefndrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+tedrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+timbraður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+uppdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+útúrdópaður	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
+útúrdrukkinn	lo	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 					
 vímaður	lo	d	l							
-vímuefni	no	d	z			hk				"
-"
+vímuefni	no	d	z			hk				
