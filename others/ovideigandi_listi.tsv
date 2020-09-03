@@ -56,13 +56,13 @@ djöfuldómur	no	b		mikið af e-u, óhemjufjöldi, magn, mergð	blótsyrði
 djöfulgangur	no	b			blótsyrði		
 djöfulinn	ao	b			blótsyrði		
 djöfull	no	b			blótsyrði		
-djöfullinn	no	b			blótsyrði		
+djöfull	no	b			blótsyrði		
 djöfulsins	ao	b			blótsyrði		
 djöfulskapur	no	b			blótsyrði		
 drulluháleisti		b			blótsyrði		
 drullutussuskuð		b			blótsyrði		
 fjandakorn	no	b			blótsyrði		
-fjandinn	no	b			blótsyrði		
+fjandi	no	b			blótsyrði		
 fokk	ao	b			blótsyrði		
 fokk	no	b			blótsyrði	hk	
 fokka	so	b	y		blótsyrði		
@@ -73,7 +73,7 @@ fokking	ao	b			blótsyrði	Slangur
 fuckin	ao/so/	b	y		blótsyrði	ATH enska	
 fuðrandi		b			blótsyrði		
 grákolað		b			blótsyrði		
-grefillinn		b			blótsyrði		
+grefill		b			blótsyrði		
 grefilsins		b			blótsyrði		
 grýtis		b			blótsyrði		
 helvískur	lo	b	l		blótsyrði		
@@ -93,13 +93,13 @@ shit	ao	b			blótsyrði
 sjitt	ao	b			blótsyrði		
 sjitt		b			blótsyrði	ath enskusletta	
 sjóðandi		b			blótsyrði		
-skollinn		b			blótsyrði		
+skolli		b			blótsyrði		
 sótsvart		b			blótsyrði		
 tuss	no	b			blótsyrði		
 tussuhelvíti		b			blótsyrði		
 tussusnúður		b			blótsyrði		
 þreifandi		b			blótsyrði		
-þremillinn		b			blótsyrði		
+þremill		b			blótsyrði		
 áfengisfíkn	no	d	z				
 alkahólisti	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 		
 alki	no	d			Niðrandi orð sem gefur í skyn drykkfeldni eða fíkn einstaklings 		
@@ -1766,11 +1766,7 @@ flókatrissa	no	u	k/kvk	hirðuleysisleg, úfin stelpa	Niðrandi orð um manneskj
 gægsni	no	u	k/kvk	horuð og veikluleg kona	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Mögur kona	
 garnaflækja	no	u	k/kk	langur og rengulvaxinn maður	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Hávaxinn grannur karlmaður	
 gaur	no	u			Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.		
-gaur	no	u	k/kk	langur sláni	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Hávaxinn grannur karlmaður	"x (stöng, stólpi
-•	
-ólögulegur og rifinn staur, maðksmoginn rekadrumbur
-•	
-digur og langur nagli, gróf (og vond) nál)"
+gaur	no	u	k/kk	langur sláni	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Hávaxinn grannur karlmaður	"x (stöng, stólpi, ólögulegur og rifinn staur, maðksmoginn rekadrumbur, digur og langur nagli, gróf (og vond) nál)"
 gelgja	no	u	k/kvk	mögur, mjóvaxin og veikluleg kona	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Mögur kona	
 genja	no	u	k/kvk	stór hrikaleg kona, stór skepna	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Stórvaxin kona	
 genta	no	u	k/kvk	stór, brussuleg og framhleypin kona, stór skepna/lúða	Niðrandi orð um manneskju, dregur fram neikvæða eiginleika í útliti.	Vaxtarlag: Stórvaxin kona	
