@@ -1,9 +1,9 @@
 # Icelandic Taboo Database 1.0
 An annotated collection of Icelandic words that are (sometimes) associated with a taboo or some sort of inappropriateness depending on context.
 
-Citing the Error Corpus:
+Citing the Taboo Database:
 
-Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Agnes Sólmundsdóttir. 2020. The Icelandic Error Corpus (IceEC). Version 1.0. (https://github.com/antonkarl/iceTaboo)
+Ingason, Anton Karl, Lilja Björk Stefánsdóttir, and Agnes Sólmundsdóttir. 2020. The Icelandic Taboo Database. Version 1.0. (https://github.com/antonkarl/iceTaboo)
 
 ## List of taboo/inappropriate words 
 A list of words in Icelandic that may in some way be considered inappropriate, taboo and/or  loaded in use or meaning. These can be words such as; words that are biased against certain minorities (i.e. people of different races, abilities, genders or sexualities), words that are derogatory towards people, unnecessarily gendered, obsolete and so on. The list also includes words that are not cery inappropriate but can be considered an unfortunate topic for children or politically loaded in any way. 
